@@ -1,6 +1,6 @@
 ## 💻 Kauã Lopes
 
-<h3>Eu sou Kauã Lopes, tenho 19 anos, estou cursando Análise e Desenvolvimento de Sistemas na UNIBTA, e me formei no ensino médio na ETEC Parque da Juventude com ênfase em Desenvolvimento de Sistemas. Tenho muito interesse na área de programaçaõ e análise de dados e pretendo seguir na área, conhecer e aprender muito mais ! </h3>
+<h3>Eu sou Kauã Lopes, tenho 19 anos, estou cursando Análise e Desenvolvimento de Sistemas na UNIBTA, e me formei no ensino médio na ETEC Parque da Juventude com ênfase em Desenvolvimento de Sistemas. Tenho muito interesse em ingressar na área de programação e análise de dados, podendo contribuir com a empresa enquanto eu desenvolvo minhas habilidades profissionais ! </h3>
 
 <br>
 
