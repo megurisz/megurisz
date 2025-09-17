@@ -17,19 +17,7 @@
 
 <br>
 
-## 📊 ESTATÍSTICAS 
 
-<div
-  
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=megurisz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-      
-</div>
-
-<br>
 
 ## 🤳 REDES SOCIAS
  
